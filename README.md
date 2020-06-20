@@ -3,4 +3,10 @@ This is a complete project which covers almost all aspects of machine learning a
 
 # Resources:
 https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset.ipynb
+
+
 http://pbpython.com/categorical-encoding.html
+
+
+
+https://github.com/mrdbourke/your-first-kaggle-submission/blob/master/kaggle-titanic-dataset-example-submission-workflow.ipynb
